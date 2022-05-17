@@ -1,0 +1,44 @@
+  .caja1{
+        background-color: #f7f7f7;
+        border: 2px solid #56c2c6;
+        border-radius: 20px 20px;
+        width:235px;
+        height:700px;
+  
+    }
+
+  .caja2{
+        background-color: #f7f7f7;
+        border: 2px solid #56c2c6;
+        border-radius: 20px 20px;
+        width:235px;
+        height:700px;
+  
+    }
+  .caja3{
+        background-color: #f7f7f7;
+        border: 2px solid #56c2c6;
+        border-radius: 20px 20px;
+        width:235px;
+        height:700px;
+  
+    }
+
+
+.text2{
+    color: #ffffff;
+}
+
+.text3{
+  color: #ffffff;
+}
+
+
+.tabla{
+  width: 800px;
+  margin: 0 auto;
+}
+
+.x {
+  text-align: center;
+}
